@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Whoweare = () => {
-    return {
-       <div>Who wea re</div>
-    }
+const Contact = () => {
+    return (
+       <div>Contact</div>
+    )
 }
 
-export default Whoweare;
+export default Contact;
