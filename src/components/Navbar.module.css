@@ -1,0 +1,19 @@
+import React from "react";
+
+const Navbar = () => {
+    return (
+        <div className="navbar">
+            <a href="./#">Who We Are</a>
+            <a href="./#">What We Do</a>
+            <a href="./#">Patenting Process</a>
+            <a href="./#">FAQ</a>
+            <a href="./#">Fee Structure</a>
+            <a href="./#">Contact</a>
+            <a href="./#">Blog</a>
+            <a href="./#">1-888-357-1068</a>
+            <a href="./#">Submit Your Idea Now</a>
+        </div>
+    )
+}
+
+export default Navbar;
