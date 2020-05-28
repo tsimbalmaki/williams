@@ -12,8 +12,8 @@ const Navbar = () => {
             <a className={s.links} href="/feestructure">Fee Structure</a>
             <a className={s.links} href="/contact">Contact</a>
             <a className={s.links} href="/blog">Blog</a>
-            <a className={s.number} href="./#">1-888-357-1068</a>
-            <a className={s.btm}href="./#">
+            <a className={s.number} href="..#">1-888-357-1068</a>
+            <a className={s.btm}href="..#">
                 <div className={s.ybtm}>
                     Submit Your Idea Now
                 </div>
