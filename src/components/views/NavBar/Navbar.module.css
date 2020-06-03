@@ -6,14 +6,6 @@
     align-items: center;
 }
 
-.links {
-    color: white;
-    text-decoration: none;
-    margin: 20px;
-}
-.links:hover {
-    color: #FFE195;
-}
 
 .number {
     text-decoration: none;

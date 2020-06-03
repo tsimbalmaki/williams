@@ -1,0 +1,70 @@
+.cards {
+    text-decoration: none;
+    padding: 0px;
+    margin: 0px;
+    max-width: 380px;
+    max-height: 380px;
+    gap: 20px;
+.cards:hover {
+    color: #FFE195;
+}
+}
+
+.card {
+
+
+    background: rgba(27, 49, 75, 0.75);
+
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+.icon {
+    padding-top: 73px;
+}
+
+.title {
+    padding-top: 25px;
+    padding-left: 121px;
+    padding-right: 123px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+}
+
+.descriptionOffer {
+    padding-top: 26px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-transform: none;
+    font-family: Signika;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+
+}
+.but1 {
+    padding-bottom: 20px;
+    margin-top: 66px;
+}
+.but {
+    background-color: #2D3A52;
+    font-family: Signika;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    justify-content: center;
+    align-items: center;
+}

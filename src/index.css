@@ -10,7 +10,7 @@ body {
   color: rgba(255, 255, 255, 0.8);
 
   background-color: #152231;
-  background-image: url("./img/screen_1400x800_2.png");
+  background-image: url("static/screen_1400x800_2.png");
   background-repeat: no-repeat;
   background-size: 100%;
 
