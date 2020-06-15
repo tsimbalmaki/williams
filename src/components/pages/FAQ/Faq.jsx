@@ -4,11 +4,14 @@ import CardOffer from "../../views/CardOffer/CardOffer";
 
 const Faq = () => {
     return (
-       <div><div className={s.bloks}>
-           <CardOffer title={1}
-                      descriptionOffer={1}
-                      icon={1}/>
-       </div></div>
+        <div>
+            <div className={s.bloks}>
+                <CardOffer icon={'ICON'}
+                           title={'Faq'}
+                           descriptionOffer={'Utility patents offer the broadest protection for any new or useful process, machine, manufacture, or composition of matter.'}
+                />
+            </div>
+        </div>
     )
 }
 

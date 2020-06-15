@@ -31,10 +31,7 @@ const listLinks = [
         text: 'Blog',
         href: '/blog',
     },
-    {
-        text: 'Blog',
-        href: '/blog',
-    },
+
     {
         text: '1-888-357-1068',
         href: '../..#',

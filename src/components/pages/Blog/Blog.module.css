@@ -1,6 +1,3 @@
 .bloks {
-    display: flex;
-    gap: 5px;
-    padding-left: 110px;
+    margin-left: 110px;
 }
-
