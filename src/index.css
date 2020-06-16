@@ -3,19 +3,11 @@ body {
   font-family: Signika;
   font-style: normal;
   font-weight: 600;
-  font-size: 14px;
-  line-height: 17px;
-  text-align: center;
-  text-transform: uppercase;
   color: rgba(255, 255, 255, 0.8);
-
   background-color: #152231;
   background-image: url("static/screen_1400x800_2.png");
   background-repeat: no-repeat;
   background-size: 100%;
 
-
-
-;
 }
 
